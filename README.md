@@ -15,3 +15,5 @@
   - 😌 :relieved:
   - 😕 :confused:
   - 😂 :joy:
+##
+[CLI commands](docs/cli.md)
